@@ -1,0 +1,17 @@
+body{
+background-image:url("gun.JPG");
+}
+#form{
+	background:white;
+	border:solid gray 1px;
+	width:20%;
+	margin:100px auto;
+	border-radius:5px;
+	padding:50px;
+}
+#btn{
+	color:white;
+	background:#AB0D29;
+	padding :5px;
+	margin-left: 69%;
+}
